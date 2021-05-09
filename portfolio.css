@@ -1,0 +1,57 @@
+h1
+{
+    border: 8px blue dashed;
+}
+
+body
+{
+    background-color: black;
+   color: white;
+    background: url("gif.gif") fixed no-repeat top right, black; 
+    
+}
+h1
+{
+    text-align: center;
+}
+h1{
+	background-color: blue;
+	color: white;
+}
+h1{
+	box-shadow: 6px 6px 6px white;
+}
+h2{
+	color: blue;
+	font-family: "Arial Black";
+	text-decoration: underline;
+	text-shadow: 3px 3px 3px white;
+	font-size: xx-large;
+
+}
+.tof{
+	 text-shadow: 5px 5px 4px blue;
+	 font-size: x-large;
+}
+.imageflottante{
+	float: right;
+}
+.zz{
+	font-family: arial;
+	background-color:white;
+}
+.class{
+	border: 8px blue dashed;
+}
+.cp{
+font-size: xx-large;
+font-family: "Arial Black";
+color: blue;	
+text-shadow: 3px 3px 3px white 
+
+
+}
+.ul{
+font-size: x-large;
+text-shadow: 5px 5px 4px blue
+}
